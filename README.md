@@ -28,7 +28,7 @@ Hier wird beschrieben, wie die Übungsaufgabe auszuführen und was als Ergebnis 
 
 Ein Binder-kompatibles Repository mit einer 'environment.yml'-Datei.
 
-Durch das Anklicken des blauen badge oben oder über folgende URL erhältst du Zugriff auf Binder und die Übungsaufgabe auszuführen:\
+Durch das Anklicken des blauen badge oben oder über folgende URL erhältst du Zugriff auf Binder und die Übungsaufgabe auszuführen:
 <a href = "https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb"> Logistische Regression Aufgabe </a>
 
 Das Jupiter Notebook mit der Übungsaufgabe wird im Browser geöffnet.\
@@ -40,7 +40,7 @@ Das erwartete Ergebnis zu den jeweiligen Aufgabe wird in der Output Zelle angeze
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Musterloesung.ipynb)
 
-Durch das Anklicken des blauen badge oben oder über folgende URL erhälst du Zugriff zu Binder um die Musterlösung auszuführen:\
+Durch das Anklicken des blauen badge oben oder über folgende URL erhälst du Zugriff zu Binder um die Musterlösung auszuführen:
 <a href = "https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Musterloesung.ipynb"> Logistische Regression Musterloesung </a>
 
 Das Jupiter Notebook mit der Musterlösung wir im Browser geöffnet.\
