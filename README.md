@@ -1,4 +1,4 @@
-# Logistic-Regression
+# Logistic-Regression Aufgabe
 
 Dieses Repository enthält eine:
 <ul>
@@ -15,10 +15,14 @@ Dieses Repository enthält eine:
   
 <b>Begleitende Literatur:</b> <a href = http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf>"Introduction to Statistical Learning" von Gareth James</a>
 
-# Binder badge
+# Binder Badge
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=environment.yml)
+
+Ein Binder-kompatibles Repository mit einer 'environment.yml'-Datei.
 
 Zugriff zu Binder erhältst du durch das Anklicken des blauen badge oben oder über folgende URL:
+https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=environment.yml
 
-https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb
+# Vorgehensweise
+
