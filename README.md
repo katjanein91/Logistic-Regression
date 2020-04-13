@@ -15,14 +15,32 @@ Dieses Repository enthält eine:
   
 <b>Begleitende Literatur:</b> <a href = http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf>"Introduction to Statistical Learning" von Gareth James</a>
 
-# Binder Badge
+# Vorgehensweise
+
+Hier wird beschrieben, wie die Übungsaufgabe auszuführen und was als Ergebnis zu erwarten ist:
+
+## Binder Badge Logistische Regression Aufgabe
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb)
 
 Ein Binder-kompatibles Repository mit einer 'environment.yml'-Datei.
 
-Zugriff zu Binder erhältst du durch das Anklicken des blauen badge oben oder über folgende URL:
-https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb
+Zugriff zu Binder um die Übungsaufgabe auszuführen erhältst du durch das Anklicken des blauen badge oben oder über folgende URL:
+https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb
 
-# Vorgehensweise
+Das Jupiter Notebook mit der Übungsaufgabe wird im Browser geöffnet.\
+Importiere die benötigte Libraries mit 'Run' oder mit 'Strg + Enter'.\
+Bearbeite die Aufgaben indem du deinen Python-Code in die Input Zelle schreibst und ausführst.\
+Das erwartete Ergebnis zu den jeweiligen Aufgabe wird in der Output Zelle angezeigt.
+
+## Binder Badge Logistische Regression Musterlösung
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Musterloesung.ipynb)
+
+Zugriff zu Binder um die Musterlösung auszuführen erhältst du durch das Anklicken des blauen badge oben oder über folgende URL:
+https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Musterloesung.ipynb
+
+Das Jupiter Notebook mit der Musterlösung wir im Browser geöffnet.\
+Wähle unter dem Reiter 'Cell', 'Run All' aus um den Python Code auszuführen.
+Das erwartete Ergebnis zu den jeweiligen Aufgaben wird in der Output Zelle angezeigt. 
 
