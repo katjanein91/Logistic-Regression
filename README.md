@@ -2,11 +2,11 @@
 
 Dieses Repository enthält eine:
 <ul>
-  <li> Binder Badge zu Starten der Binder Umgebung mit der Übungsaufgabe (siehe unten)</li>
-  <li> Dependency-Datei um ein Docker Image zu erstellen 'environment.yml'</li>
+  <li> Binder Badge zu Starten der Binder Umgebung mit der Übungsaufgabe und der Musterlösung (siehe unten)</li>
+  <li> Dependency-Datei um ein Docker Image zu erzeugen 'environment.yml'</li>
   <li> Übungsaufgabe zur Logistic Regression 'Logistische Regression Aufgaben.ipynb' </li>
   <li> Musterlösung zur Übungsaufgabe  'Logistische Regression Musterloesung.ipynb'</li>
-  <li> Daten für die Ausführung der Übungsaufgabe 'Advertising.csv' </li>
+  <li> Daten für die Ausführung der Übungsaufgabe 'advertising.csv' </li>
  </ul>
  
 <b>Plattform:</b>\
@@ -26,7 +26,7 @@ Hier wird beschrieben, wie die Übungsaufgabe auszuführen und was als Ergebnis 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb)
 
-Ein Binder-kompatibles Repository mit einer 'environment.yml'-Datei.
+(Ein Binder-kompatibles Repository mit einer 'environment.yml'-Datei.)
 
 Durch das Anklicken des blauen badge oben oder über folgende URL erhältst du Zugriff auf Binder und die Übungsaufgabe auszuführen:
 <a href = "https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb"> Logistische Regression Aufgabe </a>
@@ -43,7 +43,7 @@ Das erwartete Ergebnis zu den jeweiligen Aufgabe wird in der Output Zelle angeze
 Durch das Anklicken des blauen badge oben oder über folgende URL erhälst du Zugriff zu Binder um die Musterlösung auszuführen:
 <a href = "https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Musterloesung.ipynb"> Logistische Regression Musterloesung </a>
 
-Das Jupiter Notebook mit der Musterlösung wir im Browser geöffnet.\
-Wähle unter dem Reiter 'Cell', 'Run All' aus um den Python Code auszuführen.\
+Das Jupiter Notebook mit der Musterlösung wird im Browser geöffnet.\
+Wähle unter dem Reiter 'Cell' --> 'Run All' aus um den Python Code auszuführen.\
 Das erwartete Ergebnis zu den jeweiligen Aufgaben wird in der Output Zelle angezeigt. 
 
