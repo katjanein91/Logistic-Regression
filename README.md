@@ -17,12 +17,12 @@ Dieses Repository enthält eine:
 
 # Binder Badge
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=environment.yml)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb)
 
 Ein Binder-kompatibles Repository mit einer 'environment.yml'-Datei.
 
 Zugriff zu Binder erhältst du durch das Anklicken des blauen badge oben oder über folgende URL:
-https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=environment.yml
+https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Aufgaben.ipynb
 
 # Vorgehensweise
 
