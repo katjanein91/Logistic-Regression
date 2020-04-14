@@ -36,6 +36,8 @@ Importiere die benötigte Libraries mit 'Run' oder mit 'Strg + Enter'.\
 Bearbeite die Aufgaben indem du deinen Python-Code in die Input Zelle schreibst und ausführst.\
 Das erwartete Ergebnis zu den jeweiligen Aufgabe wird in der Output Zelle angezeigt.
 
+Deine Lösungen kannst du mit der Musterlösung vergleichen.
+
 ## Binder Badge Logistische Regression Musterlösung
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Musterloesung.ipynb)
