@@ -2,7 +2,7 @@
 
 Dieses Repository enthält eine:
 <ul>
-  <li> Dependency-Datei um ein Docker Image zu erzeugen 'environment.yml'</li>
+  <li> Die von conda verwendete Standardkonfigurationsdatei'environment.yml', die eine Python umgebung installiert</li>
   <li> Jupyter Notebook mit der Musterlösung  'Logistische Regression Musterloesung.ipynb'</li>
   <li> Daten für die Ausführung der Übungsaufgabe 'advertising.csv' </li>
  </ul>
