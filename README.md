@@ -1,4 +1,4 @@
-# Logistic-Regression Aufgabe
+# Logistic-Regression jupyter Notebook via Binder
 
 Dieses Repository enthält eine:
 <ul>
