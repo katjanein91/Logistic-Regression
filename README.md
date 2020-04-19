@@ -16,7 +16,7 @@ Die Übungsaufgabe, Musterlösunge und die Daten stammen aus dem Udemy- Kurs <a 
 <b>Begleitende Literatur:</b>\
 <a href = http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf>"Introduction to Statistical Learning" von Gareth James</a>
 
-# Binder Badge Logistische Regression Musterlösung
+# Binder Badge Logistische Regression 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Logistic-Regression.git/master?filepath=Logistische%20Regression%20Musterloesung.ipynb)
 
