@@ -4,7 +4,7 @@ Dieses Repository enthält eine:
 <ul>
   <li> Die von conda verwendete Standardkonfigurationsdatei'environment.yml', die eine Python umgebung installiert</li>
   <li> Jupyter Notebook mit der Musterlösung  'Logistische Regression Musterloesung.ipynb'</li>
-  <li> Daten für die Ausführung der Übungsaufgabe 'advertising.csv' </li>
+  <li> Daten für die Ausführung des Projektse 'advertising.csv' </li>
  </ul>
  
 <b>Plattform:</b>\
