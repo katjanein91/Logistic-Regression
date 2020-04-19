@@ -2,7 +2,7 @@ name: Logistic Regression-environment
 channels:
   - conda-forge
 dependencies:
-  - python=2.7
+  - python
   - numpy
   - pandas
   - matplotlib
